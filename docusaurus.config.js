@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'Mibao',
   tagline: 'All about NFT',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://zhouyun-zoe.github.io',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'zhouyun-zoe',// Usually your GitHub org/user name.
   projectName: 'mibao-docs', // Usually your repo name.
-  baseUrl: '/',
+  baseUrl: '/mibao-docs/',
 
   presets: [
     [
